@@ -11,7 +11,7 @@
     "@reach/dialog": "^0.3.0",
     "@reach/tabs": "^0.3.0",
     "@reach/visually-hidden": "^0.3.0",
-    "gatsby": "^2.17.1",
+    "gatsby": "^4.25.7",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-netlify-identity": "^0.1.9",
